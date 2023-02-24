@@ -1,0 +1,42 @@
+﻿body {
+    margin: auto;
+    background: #E3E3E3;
+}
+header {
+
+}
+nav {
+
+}
+article {
+    padding: 30px;
+}
+footer {
+
+}
+.section_1 form {
+    background: #FFF;
+    border: solid 1px #AFAFAF;
+    min-width: 20%;
+    max-width: 30%;
+    margin: 50px auto;
+}
+.section_1 form, input[type="submit"] {
+    border-radius: 4px;
+}
+input {
+    width: 100%;
+}
+input[type="text"], input[type="password"] {
+    border: 0;
+    border-bottom: 1px solid #111;
+    margin: 5px 0;
+}
+input[type="submit"] {
+    margin: 10px 0;
+    background: #1CDF10;
+    padding: 15px;
+    color: #DEDEDE;
+    font-weight: bold;
+    border: solid 1px #22AF22;
+}
